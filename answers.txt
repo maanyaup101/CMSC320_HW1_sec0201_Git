@@ -6,3 +6,6 @@ Answer: Data science can be applied to economics, where big data is used all the
 
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merging keeps the history intact by simply creating a new commit, whereas rebasing completely moves commits onto another branch to create a new director or history. 
+
+Q4: What are you looking forward to this semester?
+Answer: I am looking forward to learning more about data science and visualization as it is very pertinent to my field. I want to learn how to grapple with big data and practice my coding skills as well.  
