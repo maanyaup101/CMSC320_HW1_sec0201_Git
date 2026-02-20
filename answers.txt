@@ -3,3 +3,6 @@ Answer: Git can help one code and collaborate with other people and see older ve
 
 Q2: What field could data science be applied to? Give an Example.
 Answer: Data science can be applied to economics, where big data is used all the time to run regressions and analyze trends over time. 
+
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merging keeps the history intact by simply creating a new commit, whereas rebasing completely moves commits onto another branch to create a new director or history. 
